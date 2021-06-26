@@ -1,2 +1,4 @@
 site_name: gitpages
 site_url: https://gitgitpages.readthedocs.io/
+edit_uri: https://github.com/gitpages/git.gitpages/edit/main/docs/index.md
+repo_url: https://github.com/gitpages/git.gitpages
