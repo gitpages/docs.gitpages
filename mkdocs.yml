@@ -1,6 +1,5 @@
 mkdocs.yml
 docs/
     index.md
-    
 site_name: Marshmallow Generator
 site_url: https://gitgitpages.readthedocs.io/
