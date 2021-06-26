@@ -1,6 +1,2 @@
 site_name: gitpages
 site_url: https://gitgitpages.readthedocs.io/
-
-mkdocs.yml
-docs/
-    index.md
