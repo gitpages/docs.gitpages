@@ -1,6 +1,5 @@
-## hello
-hi
+# ALGEMEIN
 
-## banane
-jsjs dkkd
-dmdjd d djdndnd dnjdnd 
+## FAQ
+### Was ist gitpages.ga
+—Gitpages.ga ist eine 
